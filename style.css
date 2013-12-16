@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    font-family: Optima;
+    font-size: 23px;
+    line-height: 50px;
+}
+
+.title {
+}
+
+.list {}
+
+#app {
+    width: 1000px;
+    margin: 50px auto;
+}
+
+#blogs {}
+
+#books {}
+
+#sites {}
+
+a {
+    text-decoration: none;
+}
+
+a:linked {}
